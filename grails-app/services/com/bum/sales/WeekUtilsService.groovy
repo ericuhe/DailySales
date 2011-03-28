@@ -16,4 +16,9 @@ class WeekUtilsService {
 			weekInstance.addToDailyReceipts(tempDailyReceipt).save()
 		} 
 	}
+	
+	def getMonday(Week weekInstance) {
+		
+	}
+	
 }
